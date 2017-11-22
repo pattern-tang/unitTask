@@ -1,9 +1,8 @@
 <?php 
  error_reporting(0); //抑制所有错误信息
 @header("content-Type: text/html; charset=utf-8"); //语言强制
-ob_start();
-
-function valid_email($str) 
+ob_start();echo '可适当考虑非';
+function valid_email($str)
 {
 	return ( ! preg_match("/^([a-z0-9\+_\-]+)(\.[a-z0-9\+_\-]+)*@([a-z0-9\-]+\.)+[a-z]{2,6}$/ix", $str)) ? FALSE : TRUE;
 }
