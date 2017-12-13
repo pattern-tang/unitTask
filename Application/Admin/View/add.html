@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+    <title>后台主页</title>
+    <!-- Bootstrap -->
+    <link href="__PUBLIC__/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="__PUBLIC__/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <link href="__PUBLIC__/assets/styles.css" rel="stylesheet" media="screen">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <script src="__PUBLIC__/vendors/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script src="__PUBLIC__/vendors/jquery-1.9.1.min.js"></script>
+    <script src="__PUBLIC__/bootstrap/js/bootstrap.min.js"></script>
+    <style> .state{color:#998;} input[type="radio"]{margin-left:30px;}</style>
+    <script>
+        var addUrl='{<:U("Admin/Login/checkName")>}';
+    </script>
+    <script src="__PUBLIC__/js/add.js"></script>
+</head>
+<body>
+<div class="navbar navbar-fixed-top">
+    <div class="row-fluid">
+
+
+
+            <div class="block-content collapse in">
+                <div class="span12">
+                    <form class="form-horizontal" method="post" action="{<:U('Admin/Login/userSave')>}" enctype="multipart/form-data">
+                        <fieldset>
+
+                            <legend>
+
+                                <div class="nav-collapse collapse">
+                                    用户信息
+                                    <ul class="nav pull-right">
+                                        <li class="dropdown">
+                                            <a href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"> <i class="icon-user"></i> {<$user_info.uname>} <i class="caret"></i>
+
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li>
+                                                    <a tabindex="-1" href="index.html">中心</a>
+                                                </li>
+                                                <li class="divider"></li>
+                                                <li>
+                                                    <a tabindex="-1"  href="{<:U('Admin/Index/cancel')>}">退出</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </legend>
+
+
+                            <div class="control-group">
+                                <label class="control-label">姓名</label>
+                                <div class="controls">
+                                    <input  class="input-xlarge focused" type="text"  name="name"/>
+                                    <span class="help-inline state">请输入姓名</span>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">账号</label>
+                                <div class="controls">
+                                    <input  class="input-xlarge focused" type="text"  name="account"/>
+                                    <span class="help-inline state">请输入账号</span>
+                                </div>
+
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">电话</label>
+                                <div class="controls">
+                                    <input  class="input-xlarge focused" type="number" name="phone"/>
+                                    <span class="help-inline state">请输入电话</span>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">密码</label>
+                                <div class="controls">
+                                    <input  class="input-xlarge focused" type="password"  name="password"/>
+                                    <span class="help-inline state">请输入密码</span>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">重复密码</label>
+                                <div class="controls">
+                                    <input  class="input-xlarge focused" type="password"  name="repass"/>
+                                    <span class="help-inline state">请确认密码</span>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">角色</label>
+                                <div class="controls" >
+                                    <select name="role_id" class="input-text">
+                                        <!--数据库的数据-->
+                                        <option value="0" selected>请选择角色</option>
+                                    <foreach name="role" item="vo">
+                                        <option value="{<$vo['id']>}">{<$vo['name']>}</option>
+                                    </foreach>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">部门</label>
+                                <div class="controls" >
+                                    <select name="branch_id" class="input-text">
+                                        <!--数据库的数据-->
+                                        <option value="0" selected>请选择部门</option>
+                                    <foreach name="branch" item="vo">
+                                        <option value="{<$vo['id']>}">{<$vo['name']>}</option>
+                                    </foreach>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label">等级</label>
+                                <div class="controls" >
+                                    <select name="level"  >
+                                        <option value="1">管理员</option>
+                                        <option value="0">普通用户</option>
+                                    </select>
+                                    <span class="help-inline state">请选择级别</span>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label  class="control-label">是否启用</label>
+                                <input type="radio" name="status" value="0" checked>&nbsp;停用
+                                <input type="radio" name="status" value="1">&nbsp;启用
+                            </div>
+                            <div class="form-actions">
+                                <button type="submit" class="btn btn-primary">Save changes</button>
+                                <button type="reset" class="btn">Cancel</button>
+                            </div>
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div>
+
+
+    </div>
+</div>
+</body>
+
+</html>
