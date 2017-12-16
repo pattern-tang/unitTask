@@ -69,14 +69,7 @@ LEFT JOIN seed_grade e on b.grade_id=e.id LEFT JOIN seed_subject f on b.subject_
         }
        else{return false;}
     }
-    //查询科目、年级、班级
-    public function selectRow($index){
-        if($index==1){return $this->table('seed_subject')->where("status='1'")->select();}
-        elseif ($index==2){return $this->table('seed_grade')->select();}
-        elseif($index==3){return $this->table('seed_class')->select();}
-        elseif($index==4){return $this->table('seed_teacher')->field('id,name')->select();}
-        else{return false;}
-    }
+
     //保存
     public function stageAdd($data,$index){
         if($index==1 && $this->stage->add($data)){

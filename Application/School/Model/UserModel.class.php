@@ -25,10 +25,19 @@ class UserModel extends Model
     }
     //按指定条件查询一个记录
     public function checkRow($table,$acc,$pass){
-
         $where="email='$acc' || phone='$acc' AND password='$pass' ";
         $data=$this->table($table)->field('id,name,phone,email')->where($where)->select();
         return $data[0];
+    }
+    //查询科目、年级、班级、老师
+    public function selectRow($index){
+        if($index==1){return $this->table('seed_subject')->where("status='1'")->select();}
+        elseif ($index==2){return $this->table('seed_grade')->select();}
+        elseif($index==3){return $this->table('seed_class')->select();}
+        elseif($index==4){return $this->table('seed_teacher')->field('id,name')->select();}
+        elseif($index==5){return $this->table('seed_nation')->select();}
+        elseif($index==6){return $this->table('seed_position')->select();}
+        else{return false;}
     }
     //数据库逻辑删除用户
     public function delUser($id){

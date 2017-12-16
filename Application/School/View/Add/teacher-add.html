@@ -38,19 +38,19 @@
                 <input name="marital" type="radio" value="2" >
                 已婚</label></td>
           </tr>
-
-          <tr>
-            <th class="text-r"><span class="c-red">*</span>邮箱：</th>
-            <td><input type="email"  class="input-text"  name="email"></td>
-            <th class="text-r">头像：</th>
-            <td><input type="file" class="" name="photo" multiple></td>
-          </tr>
           <tr>
             <th class="text-r"><span class="c-red">*</span>密码：</th>
             <td><input type="password"  class="input-text"  name="password"></td>
             <th class="text-r">确认密码：</th>
             <td><input type="password"  class="input-text" name="repass"></td>
           </tr>
+          <tr>
+            <th class="text-r"><span class="c-red">*</span>邮箱：</th>
+            <td><input type="email"  class="input-text"  name="email"></td>
+            <th class="text-r">邮政编码：</th>
+            <td><input type="text"  class="input-text" name="postalcode"></td>
+          </tr>
+
           <tr>
             <th class="text-r"><span class="c-red">*</span>民族：</th>
             <td>
@@ -114,12 +114,6 @@
             </td>
           </tr>
           <tr>
-            <th class="text-r">邮政编码：</th>
-            <td><input type="text"  class="input-text" name="postalcode"></td>
-            <th class="text-r">简介：</th>
-            <td><textarea class="input-text" name="info" ></textarea></td>
-          </tr>
-          <tr>
             <th></th>
             <td><button class="btn btn-success radius" type="submit"><i class="icon-ok"></i> 确定</button></td>
           </tr>
@@ -149,8 +143,7 @@
               nation:{required:true},
               postalcode:{required:false,isZipCode:true},
               marital:{required:false},
-              photo:{required:false},
-              teacherInfo:{required:false},
+
               education:{required:false},
               aptitude:{required:false}
           },
@@ -179,12 +172,13 @@
           }
       });
       var address_url="{<:U('School/Classroom/selectCity')>}";
+      var zone="<option value='0'>请选择县区</option>";
       //查找城市
       $("select[name='province']").change(function(){
           //console.log(province_id);
           addressAjax($(this).val(),'province')
       }).focus(function () {
-          $("select[name='zone']").html("<option value='0'>请选择县区</option>");
+          $("select[name='zone']").html(zone);
       });
       //查找区县
       $("select[name='city']").change(function(){
@@ -200,7 +194,7 @@
               success:function(data){
                   var str ;
                   if(name=='province'){str = "<option value='0'>请选择城市</option>"}
-                  else {str = "<option value='0'>请选择县区</option>"}
+                  else {str = zone}
                   $(data).each(function(){
                       str +="<option value='"+this.ci_id+"'>"+this.ci_na+"</option>";
                   });

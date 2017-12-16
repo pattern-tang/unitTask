@@ -8,6 +8,7 @@
     });
 })(function( $ ) {
 
+
 var Uploader = (function() {
 
     // -------setting-------
@@ -99,15 +100,15 @@ var Uploader = (function() {
                 },
 
                 // 禁掉分块传输，默认是开起的。
-                chunked: false,
+                chunked: true,
 
                 // 禁掉上传前压缩功能，因为会手动裁剪。
-                compress: false,
+                compress: true,
 
                 // fileSingleSizeLimit: 2 * 1024 * 1024,
 
-                server: '../server/fileupload.php',
-                swf: '../Uploader.swf',
+                server: file_URL,
+                swf: swf_URL,
                 fileNumLimit: 1,
                 onError: function() {
                     var args = [].slice.call(arguments, 0);
@@ -117,17 +118,21 @@ var Uploader = (function() {
 
             uploader.on('fileQueued', function( _file ) {
                 file = _file;
-
                 uploader.makeThumb( file, function( error, src ) {
 
                     if ( error ) {
                         alert('不能预览');
                         return;
                     }
-
                     selectCb( src );
-
                 }, FRAME_WIDTH, 1 );   // 注意这里的 height 值是 1，被当成了 100% 使用。
+            });
+            uploader.on('uploadSuccess',function(file){
+                window.write(file);
+            });
+            uploader.on( 'uploadError', function( file ) {
+                alert('上传失败：'+file);
+                window.location.reload();
             });
         },
 
@@ -162,7 +167,7 @@ var Croper = (function() {
         aspectRatio: 16 / 9,
         preview: ".img-preview",
         done: function(data) {
-            // console.log(data);
+             console.log(data);
         }
     });
 

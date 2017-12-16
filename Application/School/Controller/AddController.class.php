@@ -9,12 +9,14 @@ namespace School\Controller;
 
 use School\Common\TitleController;
 
-class AddController extends TitleController
-{   protected $model;
+class AddController extends TitleController{
+    protected $model;
+    protected $room;
     public function __construct()
     {
         parent::__construct();
-        $this->model=D('Classroom');
+        $this->model=D('User');
+        $this->room=D('Classroom');
     }
     public function articleAdd(){
         //添加试卷
@@ -36,6 +38,12 @@ class AddController extends TitleController
         $this->assign('grade',$grade);
         $this->display('exams-add');
     }
+    //添加头像
+    public function avatarAdd(){
+        $id=I('get.id');
+        $this->assign('id',$id);
+        $this->display('photo-add');
+    }
     public function pictureAdd(){
         //添加资讯图片
 
@@ -47,9 +55,12 @@ class AddController extends TitleController
         $this->display('product-add');
     }     //添加老师
     public function teacherAdd(){
-        $province=$this->model->area('a');
+        $province=$this->room->area('a');
+        $nation=$this->model->selectRow(5);
+        $position=$this->model->selectRow(6);
         $this->assign('province',$province);
-
+        $this->assign('nation',$nation);
+        $this->assign('position',$position);
         $this->display('teacher-add');
     }
     public function memberAdd(){

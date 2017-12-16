@@ -7,36 +7,28 @@
         // 验证用户名
         na.focus(function(){
             $(this).next().text('请输入2-10个汉字').removeClass('state');
-        }).change(function () {
+        }).blur(function () {
             //用户名必须汉字 2-10个字以内
             var reg = /^[\u4E00-\u9FA5]{2,10}$/;
-            var val = $(this).val();
-            sign_up(reg,val,na);
+            sign_up(reg,$(this));
         });
         //验证账号
         File.focus(function(){
             $(this).next().text('请输入5-16位数字字母下划线且首字为字母').removeClass('state');
-        })
-        .change(function () {
+        }).blur(function () {
             //用户名必须字母和数字 5-16个字以内
             var reg = /^[a-zA-Z]\w{4,15}$/;
-            var val = $(this).val();
-            sign_up(reg,val,File);
-
+            sign_up(reg,$(this));
         });
-
         //var form=document.forms[0],name=form['name'],account=form['account'];
         //验证密码
         pa.focus(function(){
             $(this).next().text('请输入6-12位之间的字母和数字').removeClass('state');
         }).blur(function(){
-
             //只能字母和数字一起
             var reg = /^(?![0-9]+$)(?![a-zA-Z]+$)[a-zA-Z0-9]{6,12}$/;
             sign_up(reg,$(this));
-
         });
-
         //验证确认密码
         $('input[name="repass"]').focus(function(){
             $(this).next().text('输入的确认密码要和上面的密码一致,规则也要相同').removeClass('state');
@@ -70,29 +62,19 @@
         });*/
         ph.focus(function () {
             $(this).next().text('请输入正确的电话号码').removeClass('state1');
-        }).change(function () {
-            var v=$(this).val();
-            var z= /^(13|14|15|16|17|18)\d{9}$/;
-            sign_up(z,v,ph);
+        }).blur(function () {
+            var reg= /^(13|14|15|16|17|18)\d{9}$/;
+            sign_up(reg,$(this));
 
         });
-        /*(function($) {
-            $.fn.exist = function(){
-                if($(this).length>=1){
-                    return true;
-                }
-                return false;
-            };
-        })(jQuery);*/
+
         //验证函数
         function sign_up(reg,file) {
             var val = file.val();
             if(reg.test(val)){
                 if($('input[name="id"]').length<1){
                     if(file===ph || file===File){verification(val,file); }
-
                 }
-
                 ok1=true;
                 file.parent().parent().removeClass("warning");
                 file.parent().parent().addClass("success");
@@ -111,7 +93,6 @@
             //如果正则表达式正确  ajax请求后台检查是否有重复
             var reg=/^[0-9]{11}$/;
             if(reg.test(Number(source)) ){
-                //var num=source;
                 	parseInt(source);
                 //alert('ok')
             }

@@ -79,11 +79,59 @@ class LoginController extends Controller{
     public function showLogin(){
         $this->display('/Index/login');
     }
+    //添加头像
+    public function avatarAdd(){
+        $id=I('get.id');
+        $this->assign('id',$id);
+        $this->display('/Add/photo-add');
+    }
     public function cancel(){
         session_destroy();
         redirect(U('School/Login/showLogin'),1, '页面跳转中...');
     }
     public function welcome(){
         $this->display('/Index/welcome');
+    }
+    //验证内容是否重复
+    public function checkName($data=array(),$id=0){
+        $param=$data;
+        if(empty($data)&&IS_POST){
+            $param = $_POST;
+        }
+        $key = array_keys($param)[0];
+        $val = $param[$key];
+        $response = ['status'=>false,'message'=>'该内容已经存在，限制使用。'];
+        $number=$this->model->checkNumber($key,$val,$id);
+        //dump($param);echo ;exit;
+        if(empty($data)){
+            $name = I('post.name','','addslashes');
+            $response['name']=$name;//调用模型方法返回查询电话和用户名个数
+            $str=$this->model->checkName($name);
+            if($str>0 ){
+                if(is_numeric($name)){
+                    $response['message']='电话号码已经存在';
+                }else{
+                    $response['message']='用户名已经存在';
+                }
+                $this->ajaxReturn($response);
+            }else{
+                $response['status']=true;
+                if(is_numeric($name)){
+                    $response['message']='电话号码可用';
+                }else{
+                    $response['message']='用户名可用';
+                }
+                $this->ajaxReturn($response);   //调用模型方法返回修改是否重复
+            }
+        }
+        else{
+            if($number>0 ){
+                return $response;
+            }
+            else{
+                $response = ['status'=>true,'message'=>'该内容可以使用'];
+                return $response;
+            }
+        }
     }
 }
