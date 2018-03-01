@@ -1,0 +1,1212 @@
+[ 2017-11-18T20:19:32+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006836s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:32+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:32+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:32+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:19:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:39+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:19:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:39+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:19:42+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:42+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:42+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:42+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:19:42+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:42+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:19:51+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:51+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:19:51+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:51+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:19:51+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:22:06+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:22:06+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:22:06+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:22:06+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:22:06+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:22:06+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:14+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:24+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:24+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:24+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:24+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:25+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:25+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:29+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:29+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:29+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:29+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:29+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:30+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:36+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:36+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:36+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:36+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:36+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:36+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:39+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:39+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:41+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:41+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:41+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:41+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:41+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:41+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:44+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:45+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:47+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:47+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:47+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:47+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:47+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:50+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:50+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:50+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:50+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:50+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:50+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:54+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:54+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:54+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011718s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:54+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:24:54+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:24:54+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:03+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:03+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:03+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:03+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:03+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:03+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:07+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:07+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:07+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:07+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:07+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:07+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:12+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:12+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:12+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:12+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:12+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:44+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:25:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:25:44+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:26:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:26:40+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:00+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:01+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:02+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:27:02+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:27:02+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:43+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:44+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:30:44+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:46+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:46+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:30:46+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:31:21+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:31:21+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:31:21+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:31:21+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:31:21+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:31:22+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:31:23+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:31:23+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/easypiechart/jquery.easy-pie-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:37:18+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:37:19+08:00 ] 127.0.0.1 /tp-p69/Public/bootstrap/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-18T20:37:20+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:40:19+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:42:13+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:42:16+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:42:34+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:59:22+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T20:59:27+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T21:06:48+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T22:07:34+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Vendors
+
+[ 2017-11-18T22:07:39+08:00 ] 127.0.0.1 /tp-p69/Public/vendors/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Vendors
+

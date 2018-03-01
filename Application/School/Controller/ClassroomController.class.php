@@ -89,8 +89,7 @@ class ClassroomController extends TestController{
                session('paid',$paid);
                if($paid>0&&$id!=''){
                    if ($this->model->savePhoto($id,$paid)){
-                       $this->ajaxReturn("alert('图片保存成功，地址：'.$path);",'EVAL');
-                       //echo '图片保存成功，地址：'.$path;
+                       $this->ajaxReturn(['url'=>'图片保存成功，地址：'.$path]);
                        //$this->ajaxReturn(['url'=>"$path"]);
                    }
                }else{

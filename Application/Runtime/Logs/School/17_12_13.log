@@ -1,0 +1,208 @@
+[ 2017-12-13T23:41:12+08:00 ] 127.0.0.1 /tp-p69/unitTask/Public/School/Login/showLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0596s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-13T23:42:18+08:00 ] 127.0.0.1 /tp-p69/unitTask/Public/index.php/School/Login/checkUser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0205s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0205s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_user` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `seed_student_info` [ RunTime:0.0498s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_student_info` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\unitTask\Application\School\Model\UserModel.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0371s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_teacher` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\unitTask\Application\School\Model\UserModel.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seed_parents` [ RunTime:0.0469s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_parents` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0088s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\unitTask\Application\School\Model\UserModel.class.php 第 31 行.
+
+[ 2017-12-13T23:42:18+08:00 ] 127.0.0.1 /tp-p69/unitTask/Public/index.php/School/Index/showIndex.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_menu` [ RunTime:0.0381s ]
+SQL: SELECT * FROM `seed_menu` WHERE ( module='School' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0215s ]
+SQL: SHOW COLUMNS FROM `seed_menu` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `seed_menu` WHERE ( id=7 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\unitTask\Application\School\Model\UserModel.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010743s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010743s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.010743s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.020508s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018555s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\unitTask\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-13T23:42:19+08:00 ] 127.0.0.1 /tp-p69/unitTask/Public/index.php/School/Login/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0234s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-13T23:42:28+08:00 ] 127.0.0.1 /tp-p69/unitTask/Public/index.php/School/Classroom/registrar.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0215s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0391s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_teacher` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' )  [ RunTime:0.0791s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007813s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004883s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005859s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016602s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 46 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-13T23:42:32+08:00 ] 127.0.0.1 /tp-p69/unitTask/Public/index.php/School/Add/teacherAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0244s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `seed_area` WHERE ( parent_id=0 )  [ RunTime:0.0195s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.012695s ]
+NOTIC: [8] Undefined variable: nation D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 59 行.
+NOTIC: [8] Undefined variable: position D:\WWW\tp-p69\unitTask\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+

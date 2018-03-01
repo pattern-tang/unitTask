@@ -1,0 +1,132 @@
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/plugin/My97DatePicker/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Plugin
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/pagenav.cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Layer
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.admin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Layer
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/pagenav.cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/plugin/My97DatePicker/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Plugin
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:20+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.admin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/plugin/My97DatePicker/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugin
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.admin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/layer/layer.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Layer
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/pagenav.cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/plugin/My97DatePicker/WdatePicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Plugin
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-29T21:14:25+08:00 ] 127.0.0.1 /tp-p69/Public/js/H-ui.admin.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Js
+

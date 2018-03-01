@@ -1,0 +1,755 @@
+[ 2017-12-09T20:35:23+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Index/showIndex.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T20:35:26+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Login/showLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T20:44:10+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Login/showLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0146s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T20:44:36+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Login/checkUser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0146s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_user` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0098s ]
+SQL: SHOW COLUMNS FROM `seed_student_info` [ RunTime:0.0146s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_student_info` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\Application\School\Model\UserModel.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0146s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_teacher` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\Application\School\Model\UserModel.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `seed_parents` [ RunTime:0.0146s ]
+SQL: SELECT `id`,`name`,`phone`,`email` FROM `seed_parents` WHERE ( email='18224433910' || phone='18224433910' AND password='237050e18df44f81894652fd317524e0'  )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\Application\School\Model\UserModel.class.php 第 31 行.
+
+[ 2017-12-09T20:44:37+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Index/showIndex.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `seed_menu` [ RunTime:0.0234s ]
+SQL: SELECT * FROM `seed_menu` WHERE ( module='School' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `seed_menu` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `seed_menu` WHERE ( id=7 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\tp-p69\Application\School\Model\UserModel.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016602s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016602s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.035157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.018554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.033203s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php:95) D:\WWW\tp-p69\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T20:44:37+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Login/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+SQL: SHOW COLUMNS FROM `seed_user` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-09T20:44:43+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Classroom/registrar.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0146s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_teacher` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0254s ]
+SQL: SELECT * FROM `seed_area` WHERE ( parent_id=0 )  [ RunTime:0.0303s ]
+ERR: 1146:Table 'test.view_address' doesn't exist
+ [ SQL语句 ] : SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' ) 
+ERR: 1146:Table 'test.view_address' doesn't exist
+ [ SQL语句 ] : SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' ) 
+
+[ 2017-12-09T20:44:54+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Survey/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_papers` [ RunTime:0.0137s ]
+SQL: SHOW COLUMNS FROM `seed_achievement` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_stage` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_exams` [ RunTime:0.0137s ]
+SQL: SHOW COLUMNS FROM `seed_relation` [ RunTime:0.0146s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_achievement` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0098s ]
+SQL: SELECT a.*,b.papers_name,c.unit,d.`name`,e.`name` as t_name,f.grade,g.class,h.course FROM seed_achievement a  LEFT JOIN seed_papers b on a.papers_id=b.id  LEFT JOIN seed_stage c on b.stage_id=c.id  LEFT JOIN seed_students d on a.user_id=d.id   LEFT JOIN seed_teacher e on b.teacher_id=e.id  LEFT JOIN seed_grade f on c.grade_id=f.id  LEFT JOIN seed_class g on b.class_id=g.id  LEFT JOIN seed_subject h on c.subject_id=h.id  WHERE ( a.`status`='1' )  [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005859s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002930s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.018555s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\c13d5d7eb7777089be91cbec8f656a8b.php 第 48 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\c13d5d7eb7777089be91cbec8f656a8b.php 第 48 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\c13d5d7eb7777089be91cbec8f656a8b.php 第 48 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\c13d5d7eb7777089be91cbec8f656a8b.php 第 48 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\c13d5d7eb7777089be91cbec8f656a8b.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T20:44:55+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Survey/articlePaper.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_papers` [ RunTime:0.0137s ]
+SQL: SHOW COLUMNS FROM `seed_achievement` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `seed_stage` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_exams` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_relation` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_papers` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT a.*,b.unit,b.time,c.`name`,d.class,e.grade,f.course FROM seed_papers a  LEFT JOIN seed_stage b on a.stage_id=b.id LEFT JOIN seed_teacher c on a.teacher_id=c.id  LEFT JOIN seed_class d on a.class_id=d.id LEFT JOIN seed_grade e on b.grade_id=e.id  LEFT JOIN seed_subject f on b.subject_id=f.id  WHERE ( a.`status`='1' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002930s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010742s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5675d46c7d262ba36c4654ac5e0e1829.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-09T20:44:57+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Survey/articleExams.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_papers` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `seed_achievement` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_stage` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `seed_exams` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_relation` [ RunTime:0.0146s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_exams` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,`unit`,`time`,`grade`,`course` FROM seed_exams a LEFT JOIN seed_stage b ON a.stage_id=b.id  LEFT JOIN seed_grade c ON b.grade_id=c.id LEFT JOIN seed_subject d ON b.subject_id=d.id   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004882s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003906s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011718s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\48075de2d2513ee120dfd018a37ce6eb.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T20:44:58+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Survey/articleRelation.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_papers` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `seed_achievement` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_stage` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `seed_exams` [ RunTime:0.0146s ]
+SQL: SHOW COLUMNS FROM `seed_relation` [ RunTime:0.0156s ]
+SQL: SELECT a.*,b.papers_name,c.topic,d.`name`,e.class,f.time,f.unit,g.course,h.grade,j.`name` AS s_name FROM seed_relation a LEFT JOIN seed_papers b ON a.papers_id=b.id LEFT JOIN seed_exams c ON a.exams_id=c.id LEFT JOIN seed_teacher d on b.teacher_id=d.id LEFT JOIN seed_class e ON b.class_id=e.id LEFT JOIN seed_stage f ON b.stage_id=f.id LEFT JOIN seed_subject g ON f.subject_id=g.id LEFT JOIN seed_grade h ON f.grade_id=h.id LEFT JOIN seed_student_info j ON a.user_id=j.id  WHERE ( a.`status`='1' )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_relation` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003906s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.023438s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\5046bf4368ab4bcb9ae70e504b9ad688.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020508s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T21:52:04+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Classroom/registrar.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0166s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_teacher` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `seed_area` WHERE ( parent_id=0 )  [ RunTime:0.0010s ]
+SQL: SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004882s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002929s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.028320s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021484s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.031250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-09T21:53:52+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Classroom/registrar.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_teacher` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `seed_area` WHERE ( parent_id=0 )  [ RunTime:0.0010s ]
+SQL: SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.010742s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T21:57:10+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Classroom/registrar.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_teacher` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `seed_area` WHERE ( parent_id=0 )  [ RunTime:0.0020s ]
+SQL: SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004883s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003907s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003907s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011719s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T21:57:48+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Classroom/registrar.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0127s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `seed_teacher` WHERE ( status = '1' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `seed_area` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `seed_area` WHERE ( parent_id=0 )  [ RunTime:0.0010s ]
+SQL: SELECT a.*,b.`n_province`,b.address,b.n_city,b.n_zone,c.`name` AS p_name FROM seed_teacher a LEFT JOIN view_address b ON a.address_id=b.id LEFT JOIN seed_position c ON a.position_id=c.id  WHERE ( a.`status`='1' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002930s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.009766s ]
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant School - assumed 'School' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant Add - assumed 'Add' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [8] Use of undefined constant articleAdd - assumed 'articleAdd' D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+NOTIC: [2] Division by zero D:\WWW\tp-p69\Application\Runtime\Cache\School\bed2b96268af3d4ce281806c8058158c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-09T22:00:06+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Add/teacherAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0137s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016602s ]
+NOTIC: [8] Undefined variable: area D:\WWW\tp-p69\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\tp-p69\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T22:00:49+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Add/teacherAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0137s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004883s ]
+NOTIC: [8] Undefined variable: area D:\WWW\tp-p69\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\tp-p69\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004882s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-09T22:00:55+08:00 ] 127.0.0.1 /tp-p69/Public/index.php/School/Add/teacherAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `seed_teacher` [ RunTime:0.0146s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004883s ]
+NOTIC: [8] Undefined variable: area D:\WWW\tp-p69\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 41 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\tp-p69\Application\Runtime\Cache\School\84be192fc9f5a726a8424d971ad9fb61.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004883s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+

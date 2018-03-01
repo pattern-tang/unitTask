@@ -128,6 +128,11 @@ var Uploader = (function() {
                 }, FRAME_WIDTH, 1 );   // 注意这里的 height 值是 1，被当成了 100% 使用。
             });
             uploader.on('uploadSuccess',function(file){
+                if(typeof file=="object" ){
+                    $(file).each(function () {
+                        alert($(this).url);
+                    });
+                }else
                 window.write(file);
             });
             uploader.on( 'uploadError', function( file ) {

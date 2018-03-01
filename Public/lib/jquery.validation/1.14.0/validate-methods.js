@@ -187,7 +187,7 @@ $(function(){
 	//车牌号校验
 	jQuery.validator.addMethod("isPlateNo", function(value, element) {
 		var reg = /^[\u4e00-\u9fa5]{1}[A-Z]{1}[A-Z_0-9]{5}$/;
-		return this.optional(element) || (tel.test(value)); 
+		return this.optional(element) || (reg.test(value));
 	},"请输入正确车牌号");
 });
 //身份证号码的验证规则

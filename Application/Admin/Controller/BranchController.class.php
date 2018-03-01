@@ -57,7 +57,6 @@ class BranchController extends BaseController {
        $number = $this->model->checkNumber($key,$val);
        $response = ['status'=>false,'message'=>'该内容已经存在，限制使用。'];
 
-
        if($number>0){
            if(empty($data)){
                $this->ajaxReturn($response);
